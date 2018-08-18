@@ -11,3 +11,9 @@
 
 
 ![image](https://github.com/gxh27954/eluosi/raw/master/showImages/主界面.png)
+
+![image](https://github.com/gxh27954/eluosi/raw/master/showImages/排行榜.png)
+
+![image](https://github.com/gxh27954/eluosi/raw/master/showImages/单人模式.png)
+
+![image](https://github.com/gxh27954/eluosi/raw/master/showImages/双人对战.png)
