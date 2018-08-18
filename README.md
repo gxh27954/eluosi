@@ -8,3 +8,6 @@
 特色：
 1、方块是拖动模式，适应智能手机特点
 2、双人对战，当我方消去三行 对手会有一个位置不能再放置方块
+
+
+![image](https://github.com/gxh27954/eluosi/raw/master/showImages/主界面.png)
